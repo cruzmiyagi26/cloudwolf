@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p> I am Computer Science Engineer with Infosys that contracted with Microsoft and Google. I graduated from Georgia State with Bachelors in Computer Science Software Engineering </p>
+                    <p>I have worked on projects using Cloud Technology like AWS, Azure, and GC. I like to find things using Data Science and I am also interested in exploring blockchain technology and exploring proof of stake and creating assets  through gaming. I am trying to specialize more into C#, and Javascript for language, React JS for front end, NO SQL/SQL for background   </p>
                     </div>
                 </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites and web applications using JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p> Mastering Data Strucures and understanding the fundementals of probleming solving</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p> Using cutting edge  DevOps team tools like Jenkins, Docker, Kubernetes</p>
                 </div>
                 </div>
             </div>

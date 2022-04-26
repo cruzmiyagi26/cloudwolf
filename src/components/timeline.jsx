@@ -21,8 +21,22 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Software Engineer Infosys <span>2019-Present </span></h2>
+                        <p>Python Data Science –Infosys December 2019
+
+•Designed Web UI using Python, Flask Framework
+•Implemented Flask Web Application to linked with MongoDB, NoSQL database
+•Retrieved Data Analytics using Numpy , Pandas, MatPloylib , Scikit Python libraries using SPYDER IDE
+•Developed Spotify Chatroom using API with Python (Spring 2018)
+
+ASP. Net C# Certification – Infosys May 2019
+•Designed Web forms using C#/ASP. Net, JavaScript ,CSS, HTML5
+•Designed Web-Based Asp.NET Application linked to firm wide SQL databases 
+•Deployed a Web Application with with Microsoft Azure Cloud 
+•Created/Edit Database using SQL with Microsoft Azure Cloud 
+•Created reports using Built- in Visualization with Power BI
+•Linked Power BI Data Clusters in with Data bricks 
+•Implemented SQL Transactions with Angular /Node JS for Amigo App Wallet project .</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +46,21 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Software Engineer Vendor for Microsoft<span>2016-2018</span></h2>
+                        <p>  • Database Administrator for Microsoft Finance 
+• Azure Databricks Cloud for Analyzing SQL Relational Data using Python and Spark Hadoop Libraries 
+• SQLServer Database Management & Analytics
+Power BI / Power App Migration & Integration
+• Build Restful SQL API connectors for Power Apps
+• Relational Data Cloud collaboration with seniors at Microsoft Financial and locale vendors.
+
+• Created Standard Anonymizer tool for Microsoft Alias in Azure Cloud with C#, Azure.
+•Data Analysis and Presentation using Microsoft Azure tools.
+•Proactively ensuring accuracy of data and standardization of process.
+•Handling & Managing transcription process and pipelines across locales, using standard
+tools/platforms including Microsoft Azure, Cosmos, Python
+• Worked with Microsoft speech team and seniors, collaboration (across Microsoft locales and other
+vendors. </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +70,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education <span>2016-2018</span></h2>
+                        <p>Grade: 3.4 GPAGrade: 3.4 GPA
+Activities and societies: Alpha Phi Omega,HACKGSU 2017, HACKGSU Fall 2018, Scholarship Resource Center Assistant Summer 2017, Dean List Fall 2016,Dean List Spring 2018, Rowing Club 2018, IEEE Member Fall 2018, ACM member Fall 2018 , Dean List Spring 2019. ( After Graduating). </p> 
                       </div>
                     </div>
                   </article>
