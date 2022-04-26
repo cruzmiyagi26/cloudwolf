@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloudwolf/static/css/main.7a7d29af.css",
+    "main.js": "/cloudwolf/static/js/main.19f02741.js",
+    "index.html": "/cloudwolf/index.html",
+    "main.7a7d29af.css.map": "/cloudwolf/static/css/main.7a7d29af.css.map",
+    "main.19f02741.js.map": "/cloudwolf/static/js/main.19f02741.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.19f02741.js"
+  ]
+}
